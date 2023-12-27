@@ -1,0 +1,17 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+html, body {
+	width: 100vw;
+	height: 100vh;
+	background-image: url('./img/fondo-mosaico1.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+}
